@@ -66,10 +66,8 @@ This repository contains my assessment submissions for the module, showcasing th
     - The temperature over time.
     - The mean temperature for each day.
     - The mean temperature for each month.
-    
-***Note:*** _These tasks will account for 60% of the total marks._
 
-- For the remaining 40%:
+- For the remaining task:
     - Plot the windspeed data (note that there may be missing data in this column).
     - Create a plot of the rolling windspeed (e.g., over a 24-hour period).
     - Plot the maximum windspeed for each day.
