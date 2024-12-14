@@ -56,6 +56,8 @@ This repository contains my assessment submissions for the module, showcasing th
     - **For 1000 battle simulations:** This showed the total number of wins for the attacker, the defender, and the number of ties.
     - **For a full battle:** This tracked the number of troops remaining for both the attacker and defender after each round of the battle, providing a clear visual representation of how the battle unfolded.
 
+*****
+
 **- Assignment 6: Knock Airport Weather**
 
 **Task description:** Create a python file or notebook called [`assignment_6_weather.ipynb`](https://github.com/RodrigoDMU/programming-for-data-analytics/blob/main/assignments/assignment_6_weather.ipynb). Get the data from this [link](https://cli.fusio.net/cli/climate_data/webdata/hly4935.csv). 
@@ -73,7 +75,7 @@ This repository contains my assessment submissions for the module, showcasing th
     - Calculate and plot the monthly mean of the daily maximum windspeed.
 
 **Summary:**
-- **Data Loading & Preprocessing:** The data was successfully loaded from the provided link, and necessary columns were extracted and preprocessed for analysis.
+- **Data Loading and Preprocessing:** The data was successfully loaded from the provided link, and necessary columns were extracted and preprocessed for analysis.
 - **Temperature:** The temperature over time was plotted, showing how the temperature varied with time. I also calculated and plotted the daily and monthly mean temperatures to summarize the temperature trends.
 - **Windspeed:** The windspeed data was plotted over time, and missing values were handled using forward-fill. Additionally, I visualized the rolling windspeed over a 24-hour period, the maximum windspeed for each day, and the monthly mean of daily maximum windspeeds.
 - **Visualizations:** All the required plots were created using matplotlib. The plots for temperature, windspeed, rolling windspeed, and maximum windspeed were all formatted with appropriate labels, titles, legends, and gridlines to make them easy to interpret.
