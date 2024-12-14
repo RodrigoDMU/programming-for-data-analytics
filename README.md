@@ -23,13 +23,13 @@ This repository contains my assessment submissions for the module, showcasing th
 
 **- Assignment 2: Weather**
 
-**Task description:** Create a jupyter notebook called `assignment2-weather.ipynb` that has a nice plot of the temperature over time ( "dryBulbTemperature_Celsius" ).
+**Task description:** Create a jupyter notebook called [`assignment2-weather.ipynb`](https://github.com/RodrigoDMU/programming-for-data-analytics/blob/main/assignments/assignment2-weather.ipynb) that has a nice plot of the temperature over time ("dryBulbTemperature_Celsius").
 
 **Summary:**
-- Data Loading: Loaded the CSV file into a `pandas` DataFrame.
-- Data Preprocessing: Converted the `reportStartDateTime` column to a datetime format for proper time-based plotting.
-- Plotting: Created a scatter plot and a line plot for temperature over time, with appropriate customization (labels, grid, title).
-- Output: Produced a visually clear and informative plot showing the temperature trend over time.
+- **Data Loading:** Loaded the CSV file into a `pandas` DataFrame.
+- **Data Preprocessing:** Converted the `reportStartDateTime` column to a datetime format for proper time-based plotting.
+- **Plotting:** Created a scatter plot and a line plot for temperature over time, with appropriate customization (labels, grid, title).
+- **Output:** Produced a visually clear and informative plot showing the temperature trend over time.
 
 ## Final Project
 
