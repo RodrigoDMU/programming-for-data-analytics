@@ -83,6 +83,18 @@ This repository contains my assessment submissions for the module, showcasing th
 
 ## Final Project
 
+This project is accessing the dataset [Phoenix Park Weather](https://github.com/RodrigoDMU/programming-for-data-analytics/blob/main/project/phoenixpark_weather.csv) to demonstrate the skills developed for analysis, programming and data visualization. The analysis focuses on mean air temperature and precipitation amount recorded in Phoenix Park, Dublin, from 2004 to 2024. These two climate variables—temperature and precipitation—are key factors that affect the conditions for outdoor activities such as walking, sports, and cycling. The data provides insights into how the park's weather patterns over the past two decades might influence people's ability to engage in these activities.
+
+![PhoenixPark](project/phoenixparkimg.jpeg)
+
+In conclusion, the analysis of mean air temperature and precipitation in Phoenix Park from 2004 to 2024 highlights the significant role that climate plays in shaping outdoor activity patterns. The moderate climate of Dublin, with its mild temperatures and moderate rainfall, creates favorable conditions for walking, sports, cycling, and other outdoor activities for much of the year. For park management and local authorities, this underscores the importance of climate-sensitive planning to ensure that Phoenix Park remains an accessible and enjoyable space for all. Adjustments to facilities, the timing of outdoor events, and support for activities suited for varying weather conditions (e.g., sheltered areas for rainy months, hydration stations for warmer months) will be crucial to maximizing the park’s use and promoting an active lifestyle. As the climate continues to evolve, continuous monitoring and adaptation will be essential in maintaining Phoenix Park as a hub for recreation, contributing to the health and well-being of the community.
+
+I used [openincolab](https://openincolab.com/) to generate the following clickable link. It opens the [`project.ipynb`](https://github.com/RodrigoDMU/programming-for-data-analytics/blob/main/project/project.ipynb) Jupyter Notebook in [Google Colab](https://colab.research.google.com/).
+
+<a target="_blank" href="https://colab.research.google.com/github/RodrigoDMU/programming-for-data-analytics/blob/main/project/project.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 *****
 
 ## Author
